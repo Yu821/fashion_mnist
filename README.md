@@ -1,1 +1,1 @@
-# fashion_mnist
+Project for fashion mnist
