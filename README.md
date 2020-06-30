@@ -1,2 +1,2 @@
-Project for fashion mnist
+Fashion mnist project
 
